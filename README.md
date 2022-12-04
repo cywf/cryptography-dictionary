@@ -1,18 +1,8 @@
-# cryptography-dictionary
+# Cryptography Dictionary
 
 _Here lies a complied (ongoing) dictionary of things related to Cyptography, feel free to contribute!_
 
----
-
-# Cryptography Dictionary
-
 [//]:"big-credit-to:Jean_Philippe_Aumasson"
-
-```md
-_I promise nothing complete; because any human thing supposed to be complete must for that very reason infallibly be faulty. I shall not pretend to a minute anatomical description of the various species, or—in this space at least— to much of any description. My object here is simply to project the draught of a systematization of cetology.
-I am the architect, not the builder.
-- **Herman Melville**, in _Moby Dick_ ([Chapter XXXII](https://www.sparknotes.com/lit/mobydick/full-text/chapter-32/))
-```
 
 #### 2013
 
